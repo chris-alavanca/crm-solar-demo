@@ -23,7 +23,7 @@ A light sales CRM for a small solar installation company in Tenerife. This is a 
 
 ## Run it locally
 
-Needs Node.js 20 or later.
+Needs Node.js 20.19 or later (or 22.12 or later).
 
 ```
 npm install
